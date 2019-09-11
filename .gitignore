@@ -1,2 +1,10 @@
-*/target
-.idea/
+# IntelliJ
+.idea
+*.iml
+target
+
+# Eclipse
+.metadata
+.settings
+.classpath
+.project
